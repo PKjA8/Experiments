@@ -8,7 +8,6 @@ public class CircleCalculator {
         int radius = sc.nextInt();
 
         double pi = Math.PI;
-
         double diameter = 2 * radius;
         double circumference = 2 * pi * radius;
         double area = pi * radius * radius;

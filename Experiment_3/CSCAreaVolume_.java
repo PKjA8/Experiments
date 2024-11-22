@@ -103,7 +103,7 @@ class Cylinder extends Figure {
     }
 }
 
-public class ConeAreaVolume_ {
+public class CSCAreaVolume_ {
     public static void main(String[] args) {
         Cone co = new Cone(3, 5);
         Sphere sphere = new Sphere(3);

@@ -58,7 +58,7 @@ public class First {
                         break;
                 }
             } else if (choice != 5) {
-                System.out.println("Invalid choice. Please try again.");
+                System.out.println("Invalid choice.");
             }
         } while (choice != 5);
     }
